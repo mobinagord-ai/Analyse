@@ -628,7 +628,7 @@ class VideoAnalyzer:
 
             return frame
 
-    # ==========================================================
+    
     # CONVERT MOUSE POSITION TO ORIGINAL VIDEO POSITION
     # ==========================================================
     def mouse_to_video_point(self, x, y):

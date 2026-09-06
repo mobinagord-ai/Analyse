@@ -8,7 +8,6 @@ class VideoAnalyzer:
 
     def __init__(self, video_path):
 
-        # ==========================================================
         # VIDEO
         # ==========================================================
         self.video_path = video_path
